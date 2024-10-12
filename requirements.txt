@@ -9,3 +9,6 @@ matplotlib
 transformers
 torch
 simpletransformers
+contractions
+nltk
+spacy
